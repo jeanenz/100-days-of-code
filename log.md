@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 15, 2018
+### Day 0: September 15, 2018
 
 **Today's Progress**: Worked on Free Code Camp stuff - finished Accessability and Responsivie Design sections plus started on Flexbox.
 
