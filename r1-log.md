@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [September 15, 2018].
 Worked on Free Code Camp stuff - finished Accessability and Responsivie Design sections plus started on Flexbox.
 
 ### R1D2
+Finished Flexbox and Grid in FreeCodeCamp.  Started to revise my old tribute page to remove Bootstrap.
