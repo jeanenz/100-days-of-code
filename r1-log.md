@@ -9,3 +9,10 @@ Worked on Free Code Camp stuff - finished Accessability and Responsivie Design s
 
 ### R1D2
 Finished Flexbox and Grid in FreeCodeCamp.  Started to revise my old tribute page to remove Bootstrap.
+
+### R1D3
+R1D3 of my #100DaysOfCode. Completed my tribute page on #freeCodeCamp! https://codepen.io/jeanenz/full/mGGjwY/ … Onward to the Survey Form project tomorrow.
+
+### R1D4
+Skipped a day yesterday, but I'm back today. Started on the next FCC project - Survey form. Got the HTML text in place, then noticed the vast number of divs in the example one. Ugg. Lots of typing to come.
+
