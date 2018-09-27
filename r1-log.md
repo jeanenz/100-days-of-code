@@ -16,3 +16,5 @@ R1D3 of my #100DaysOfCode. Completed my tribute page on #freeCodeCamp! https://c
 ### R1D4
 Skipped a day yesterday, but I'm back today. Started on the next FCC project - Survey form. Got the HTML text in place, then noticed the vast number of divs in the example one. Ugg. Lots of typing to come.
 
+### R1D5
+Skipped several days (it's now 9/26 not 9/19). Finished my survey form on #freeCodeCamp using CSS Grid and variables - cool stuff! Didn't use any floats, either. https://codepen.io/jeanenz/full/EdYjRg/
